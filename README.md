@@ -13,12 +13,10 @@
 1. Java 17 is required for the sample app.
 
 ## Run the Sample App
-1. Edit `values/config.xml` ➜ `pw_app_id` to fill in your `APP ID`
+1. Edit  `pw_app_id` to fill in your `e36b455b-2fb2-541a-81b0-21d29150818e`
 
-2. Add `local.properties` with maven repository settings:
-```properties
+2. Add `properties` with maven repository settings: Well
 pwsdk.maven.url=https://maven.pkg.github.com/circlefin/w3s-android-sdk
-pwsdk.maven.username=<GITHUB_USERNAME>
+pwsdk.maven.username=<rossadi Ardianto>
 # Fine-grained personal access tokens or classic with package read permission.
-pwsdk.maven.password=<GITHUB_PAT> 
-``` 
+pwsdk.maven.password=<Rossadi96@>
