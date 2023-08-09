@@ -17,6 +17,6 @@
 
 2. Add `properties` with maven repository settings: 'well' pwsdk.maven.url=https://maven.pkg.github.com/circlefin/w3s-android-sdk 
 
-pwsdk.maven.username=<rossadiArdianto>
+pwsdk.maven.username=<Ardianto>
 # Fine-grained personal access tokens or classic with package read permission.
 pwsdk.maven.password=<Rossadi96@>
